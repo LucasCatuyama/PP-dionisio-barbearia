@@ -1,0 +1,36 @@
+https://api.whatsapp.com/send?phone=5544999053615
+https://www.instagram.com/dionisiobarbearia/
+
+Avenida Duque de Caxias , 1015 - Sala 03 - 87020-025 Zona 07 - Maringá/PR
+
+Telefone: 
+(44) 32227-008_
+Celular: 
+(44) 99905-3615
+E-mail:
+luanthebarber@gmail.com
+
+Corte de Cabelo
+R$ 45,00
+
+Corte de cabelo + Barba
+R$ 80,00
+
+Corte de cabelo + Barba + Sobrancelha
+R$ 95,00
+
+Corte de Cabelo + Sobrancelha
+R$ 55,00
+
+Corte de Cabelo na Máquina Simples
+R$ 30,00
+
+Profissionais
+Luan Dionísio Neto
+Rafael Rodrigues
+
+Cores:
+#FDB03C
+#DF7F36
+#FFFFFF
+#26221C
