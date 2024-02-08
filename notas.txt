@@ -30,7 +30,13 @@ Luan Dionísio Neto
 Rafael Rodrigues
 
 Cores:
-#FDB03C
+#FEA500
 #DF7F36
 #FFFFFF
 #26221C
+
+https://www.flaticon.com/br/icone-gratis/pin-de-localizacao_67872?k=1707365582590&sign-up=email
+https://www.flaticon.com/br/icone-gratis/calendario_5859234?term=calend%C3%A1rio&page=1&position=3&origin=search&related_id=5859234
+https://www.flaticon.com/br/icone-gratis/instagram_1384031?term=instagram&page=1&position=5&origin=search&related_id=1384031
+https://www.flaticon.com/br/icone-gratis/whatsapp_154858?term=whatsapp&page=1&position=2&origin=search&related_id=154858
+https://www.flaticon.com/br/icone-gratis/o-email_747314?term=email&page=1&position=3&origin=search&related_id=747314
