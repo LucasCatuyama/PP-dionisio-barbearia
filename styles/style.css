@@ -1,0 +1,126 @@
+:root {
+  --main-orange: #fea500;
+  --secundary-orange: #df7f36;
+  --white: #f0f0f0;
+  --white-087: rgba(255, 255, 255, 0.87);
+  --black-1: #121212;
+  --black-2: #1d1d1d;
+  --black-3: #242424;
+  --black-4: #2c2c2c;
+}
+
+@media screen and (max-width: 767px) {
+  body {
+    width: 100vw;
+    height: 100vh;
+    background-color: var(--black-1);
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+  }
+
+  .header {
+    height: 151px;
+    background-color: var(--black-2);
+    display: flex;
+    justify-content: space-around;
+    align-items: end;
+  }
+
+  .header__element img {
+    width: 70px;
+    height: 73px;
+    flex-shrink: 0;
+    margin-bottom: 18px;
+    flex-shrink: 0;
+    border-radius: 20px;
+  }
+
+  .header__element a {
+    background-color: var(--main-orange);
+    padding: 10px;
+    border-radius: 25px;
+    font-size: 14px;
+    color: var(--black-2);
+    font-weight: 700;
+    text-decoration: none;
+    text-align: center;
+    font-style: normal;
+    line-height: normal;
+    box-sizing: border-box;
+    line-height: 113px;
+  }
+
+  .experience {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+  }
+
+  .experience h1 {
+    color: var(--white);
+    margin-top: 30px;
+    text-align: center;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+  }
+
+  .experience p {
+    color: rgba(255, 255, 255, 0.87);
+    width: 300px;
+    height: 88px;
+    margin-bottom: 41px;
+    text-align: center;
+    font-size: 18px;
+    font-style: normal;
+    line-height: normal;
+  }
+
+  .services {
+    width: 22.6rem;
+    height: 47.5rem;
+    background-color: var(--black-2);
+    border-radius: 25px;
+    justify-content: center;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    gap: 33px;
+    margin-left:20px;
+  }
+
+  .services__title {
+    color: var(--white);
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-top: 15px;
+  }
+
+  .services__option {
+    color: var(--white-087);
+    font-size: 12px;
+    width: 18.125rem;
+    height: 5.3125rem;
+    background-color: var(--black-3);
+    border: 1px solid var(--main-orange);
+    border-radius: 20px;
+    justify-content: center;
+  }
+
+  .services__cta a {
+    display: inline-block;
+    background-color: var(--main-orange);
+    padding: 12px 26px;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    color: var(--black-2);
+    border-radius: 15px;
+    margin-bottom: 33px;
+
+}
