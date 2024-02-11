@@ -38,7 +38,7 @@
   .header__element a {
     background-color: var(--main-orange);
     padding: 10px;
-    border-radius: 25px;
+    border-radius: 10px;
     font-size: 14px;
     color: var(--black-2);
     font-weight: 700;
@@ -49,13 +49,13 @@
     box-sizing: border-box;
     line-height: 113px;
   }
-  
+
   .main {
     display: flex;
     flex-direction: column;
     align-items: center;
   }
-  
+
   .experience {
     display: flex;
     flex-direction: column;
@@ -88,12 +88,11 @@
     background-color: var(--black-2);
     border-radius: 25px;
     width: 363px;
-    height: 761px;
+    height: 800px;
     text-align: center;
     display: flex;
     flex-direction: column;
     gap: 33px;
-
   }
 
   .services__title {
@@ -108,17 +107,16 @@
   .services__option {
     color: var(--white-087);
     background-color: var(--black-3);
-    font-size: 12px;
+    font-size: 15px;
     font-style: normal;
     line-height: normal;
-    padding: 35px 128px;
+    padding: 25px 10px;
     border: 1px solid var(--main-orange);
     border-radius: 20px;
     margin: 0 37px;
-    
   }
 
-  .services__cta a{
+  .services__cta a {
     display: inline-block;
     background-color: var(--main-orange);
     padding: 12px 26px;
@@ -129,12 +127,17 @@
     color: var(--black-2);
     border-radius: 15px;
     margin-bottom: 33px;
+  }
 
+  .team h2 {
+    color: var(--white-087);
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-top: 32px;
   }
-  .something {
-    height: 852px;
-  }
-  
+
   .visitUs {
     background-color: var(--black-2);
     border-radius: 25px;
@@ -168,7 +171,6 @@
     align-items: center;
     margin: 0px 13px 15px 13px;
     text-align: center;
-
   }
 
   .visitUs__information__card p {
@@ -176,7 +178,6 @@
     font-size: 15px;
     font-style: normal;
     line-height: normal;
-
   }
 
   .map {
@@ -195,7 +196,7 @@
     flex-shrink: 0;
   }
 
-  .last__cta a{
+  .last__cta a {
     display: inline-block;
     background-color: var(--main-orange);
     padding: 12px 26px;
@@ -205,11 +206,11 @@
     line-height: normal;
     color: var(--black-2);
     border-radius: 15px;
-    margin: 30px 0px; 
+    margin: 30px 0px;
   }
 
   .footer {
-    width: 393px;
+    width: 100vw;
     height: 182px;
     flex-shrink: 0;
     background-color: var(--black-2);
@@ -228,8 +229,7 @@
     margin-bottom: 23px;
   }
 
-  .footer__texts p{
+  .footer__texts p {
     margin-bottom: 7px;
   }
-
 }

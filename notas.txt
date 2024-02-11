@@ -10,20 +10,15 @@ Celular:
 E-mail:
 luanthebarber@gmail.com
 
-Corte de Cabelo
-R$ 45,00
+Corte de Cabelo - R$ 45,00
 
-Corte de cabelo + Barba
-R$ 80,00
+Corte de cabelo + Barba - R$ 80,00
 
-Corte de cabelo + Barba + Sobrancelha
-R$ 95,00
+Corte de cabelo + Barba + Sobrancelha - R$ 95,00
 
-Corte de Cabelo + Sobrancelha
-R$ 55,00
+Corte de Cabelo + Sobrancelha - R$ 55,00
 
-Corte de Cabelo na Máquina Simples
-R$ 30,00
+Corte de Cabelo na Máquina Simples - R$ 30,00
 
 Profissionais
 Luan Dionísio Neto
