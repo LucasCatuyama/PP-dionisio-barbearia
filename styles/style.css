@@ -10,14 +10,22 @@
   --black-4: #2c2c2c;
 }
 
+body {
+  width: 100vw;
+  height: 100vh;
+  background-color: var(--black-1);
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  color: var(--white-087);
+}
+
+h1, h2 {
+  color: var(--white);
+  font-weight: 700;
+  font-size: 36px;
+}
+
 @media screen and (max-width: 767px) {
-  body {
-    width: 100vw;
-    height: 100vh;
-    background-color: var(--black-1);
-    font-family: "Inter", sans-serif;
-    font-weight: 400;
-  }
 
   .header {
     height: 151px;
@@ -196,6 +204,7 @@
     font-size: 15px;
     font-style: normal;
     line-height: normal;
+    text-align: center;
   }
 
   .map {
