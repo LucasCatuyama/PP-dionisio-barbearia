@@ -26,9 +26,9 @@ Além de prototipar o design de acordo com o propósito da barbearia.
 
 ## Resultado final
 
-Veja no Vercel 👉 https://vercel.com/lucascatuyama/pp-dionisio-barbearia/AAs5TQSRqq6a1h5zEQXnJMeDiTva <br>
+Veja no Vercel 👉 [Clique aqui](https://vercel.com/lucascatuyama/pp-dionisio-barbearia/AAs5TQSRqq6a1h5zEQXnJMeDiTva) <br>
 
-Veja no Github Pages 👉 https://lucascatuyama.github.io/PP-dionisio-barbearia/ <br>
+Veja no Github Pages 👉 [Clique aqui](https://lucascatuyama.github.io/PP-dionisio-barbearia/) <br>
 
 ## O que eu aprendi?
 - Prototipação com Figma do zero
